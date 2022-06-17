@@ -1,0 +1,16 @@
+{
+  "name": "herehome",
+  "description": "what are you doing",
+  "keywords": [
+    "vellre"
+  ],
+  "env": {
+    "UUID": {
+      "description": "VLESS UUID",
+      "value": "c5bad9d8-9c83-4a8e-b49a-b98408eed061"
+    }
+  },
+  "website": "https://github.com/subjectfreesunny/jectsubsieider",
+  "repository": "https://github.com/subjectfreesunny/jectsubsieider",
+  "stack": "container"
+}
